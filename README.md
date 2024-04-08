@@ -7,7 +7,7 @@ This Lua script is designed to run in a game environment that supports Lua scrip
 ## Usage
 
 1. Open your Lua scripting environment within the game.
-2. Copy the contents of `head_lock.lua` and paste them into the Lua scripting environment.
+2. Copy the contents of `AimScript.lua` and paste them into the Lua scripting environment.
 3. Run the script.
 
 ## Features
